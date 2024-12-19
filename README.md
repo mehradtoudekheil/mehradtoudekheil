@@ -3,8 +3,8 @@
 <p>Welcome to my github account.</p>
 <p> 
   Hello, I am a junior front end developer. <br/>
-Currently, I work mainly with React and I am also learning Next. <br/>
-In the following, you will get to know my skills and I will also be happy to see my projects.
+Currently, I work mainly with React.js and I am also learning Next.js. <br/>
+In the following, you will get to know my skills and I will also be glad to see my projects.
 </p>
 
 <h2>
