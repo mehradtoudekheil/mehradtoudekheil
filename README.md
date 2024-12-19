@@ -1,5 +1,10 @@
-## Hi there 👋
+<h1 align="center">Mehrad Toudekheil</h1>
+<p align="center">Welcomne to my github account.</p>
 
+<h3>
+  My Skills : 
+</h3>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,git,github"/>
 <!--
 **mehradtoudekheil/mehradtoudekheil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
