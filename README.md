@@ -2,9 +2,14 @@
 <br/>
 <p>Welcome to my github account.</p>
 <p> 
-  Hello, I am a junior front end developer. <br/>
-Currently, I work mainly with React.js and I am also learning Next.js. <br/>
-In the following, you will get to know my skills and I will also be glad to see my projects.
+ I am a passionate Frontend Developer with experience in React.js, JavaScript, HTML5, CSS3, and modern UI frameworks such as Tailwind CSS and Bootstrap.
+
+I enjoy turning ideas into responsive, scalable, and user-friendly web applications. My focus is on writing clean, efficient code and building interfaces that not only look great but also perform smoothly.
+
+🔹 Skilled in: React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5, CSS3, jQuery 
+🔹 Interests: UI/UX design, performance optimization, and collaborating in agile teams
+
+Currently, I am looking for opportunities as a Frontend Developer where I can contribute to impactful projects, learn from experienced teams, and continue growing my expertise in modern web technologies.
 </p>
 
 <h2>
