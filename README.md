@@ -1,37 +1,101 @@
-<h1 align="center">Mehrad Toudekheil</h1>
-<br/>
-<p>Welcome to my github account.</p>
-<p> 
- I am a passionate Frontend Developer with experience in React.js, JavaScript, HTML5, CSS3, and modern UI frameworks such as Tailwind CSS and Bootstrap.
-
-I enjoy turning ideas into responsive, scalable, and user-friendly web applications. My focus is on writing clean, efficient code and building interfaces that not only look great but also perform smoothly.
-
-🔹 Skilled in: React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5, CSS3, jQuery 
-🔹 Interests: UI/UX design, performance optimization, and collaborating in agile teams
-
-Currently, I am looking for opportunities as a Frontend Developer where I can contribute to impactful projects, learn from experienced teams, and continue growing my expertise in modern web technologies.
+<p align="center">
+  <img src="assets/mehradtoudekheil-github-banner.png" alt="GitHub Banner" />
 </p>
 
-<h2>
-  My Skills : 
-</h2>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,git,github&perline=3"/>
-<p>All the mentioned items are in my repositories projects.</p>
+<h1 align="center">Hi 👋, I'm Mehrad Toudekheil</h1>
 
-<h2>Contact Me </h2>
-<a href="https://instagram.com/mehrad_tdkh" rel="nofollow"><img src="https://camo.githubusercontent.com/94b50d6a71e67a79d85b051d8af86ad7cc541a7304e6db4825430830e9a43383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://t.me/mehradtdkh" rel="nofollow"><img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
-<!--
-**mehradtoudekheil/mehradtoudekheil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Frontend Developer | React.js | JavaScript | Tailwind CSS</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building modern, responsive, and user-friendly web applications.
+I enjoy turning ideas into beautiful interfaces with clean, scalable, and maintainable code.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Frontend Developer specialized in **React.js**
+- 🎨 Passionate about UI/UX Design
+- ⚡ Focused on clean architecture and reusable components
+- 📱 Building responsive and accessible web applications
+- 📚 Currently learning advanced React patterns and modern frontend architecture
+- 🤝 Open to Frontend Developer opportunities
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6F42C1?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+✨ Some of my favorite projects:
+
+- 💰 Expense Tracker
+- 📊 Dashboard UI
+- ⚛️ React Applications
+- 🎨 Responsive Landing Pages
+
+Explore all projects in my repositories.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React
+- Frontend Architecture
+- Performance Optimization
+- TypeScript
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+
+<a href="mailto:mehradtoudekheil@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mehradtoudekheil/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mehradtoudekheil&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehradtoudekheil&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehradtoudekheil&layout=compact&theme=tokyonight)
+
+---
+
+<p align="center">
+Thanks for visiting my profile ❤️
+</p>
