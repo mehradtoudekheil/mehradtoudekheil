@@ -2,7 +2,7 @@
   <img src="assets/mehradtoudekheil-github-banner.png" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mehrad Toudekheil</h1>
+<h1 align="center">Mehrad Toudekheil</h1>
 
 <h3 align="center">Frontend Developer | React.js | JavaScript</h3>
 
