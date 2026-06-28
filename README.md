@@ -6,7 +6,7 @@
 
 <h3 align="center">Frontend Developer | React.js | JavaScript</h3>
 
-<p align="center">
+<p align="justify">
 Passionate about building modern, responsive, and user-friendly web applications with React.
 I enjoy transforming ideas into clean, scalable, and interactive user experiences while continuously learning modern frontend technologies.
 </p>
@@ -61,15 +61,15 @@ I enjoy transforming ideas into clean, scalable, and interactive user experience
 
 <p>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mehradtoudekheil@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/mehradtoudekheil/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+<a href="https://t.me/mehradtoudekheil" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
